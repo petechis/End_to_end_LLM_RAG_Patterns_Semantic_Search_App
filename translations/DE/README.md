@@ -53,7 +53,7 @@ Eine einfache Oberfläche macht komplexe KI für jeden nutzbar.
 
 ## 🧠 Funktionsweise (Architektur)
 
-````
+```
 
 Frage des Nutzers
 ↓
