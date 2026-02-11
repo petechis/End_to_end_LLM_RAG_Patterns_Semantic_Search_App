@@ -11,6 +11,7 @@
 ![Vector DB](https://img.shields.io/badge/VectorStore-FAISS-orange)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
+[English](README.md) | [German](./translations/DE/README.md)
 ---
 
 ## ✨ Project Vision

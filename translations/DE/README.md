@@ -10,7 +10,7 @@
 ![Vector DB](https://img.shields.io/badge/VectorStore-FAISS-orange)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
-[English](../EN/) | [German](README.md)
+[English](../EN/README.md) | [German](README.md)
 
 ---
 
